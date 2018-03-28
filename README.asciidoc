@@ -145,6 +145,17 @@ get in touch!
 * PayPal: me@the-compiler.org
 * Bitcoin: link:bitcoin:1PMzbcetAHfpxoXww8Bj5XqquHtVvMjJtE[1PMzbcetAHfpxoXww8Bj5XqquHtVvMjJtE]
 
+Sponsors
+--------
+
+image:http://maccloud.me/assets/img/maccloud-logo.png[maccloud.me,link=http://maccloud.me/]
+
+link:http://maccloud.me/[Mac Cloud] is sponsoring the macOS cloud instance used
+for testing and packaging qutebrowser on macOS.
+
+Also, thanks to everyone who contributed to one of qutebrowser's
+link:doc/backers.asciidoc[crowdfunding campaigns]!
+
 Authors
 -------
 
@@ -157,9 +168,6 @@ Additionally, the following people have contributed graphics:
 * Jad/link:http://yelostudio.com[yelo] (new icon)
 * WOFall (original icon)
 * regines (key binding cheatsheet)
-
-Also, thanks to everyone who contributed to one of qutebrowser's
-link:doc/backers.asciidoc[crowdfunding campaigns]!
 
 Similar projects
 ----------------
